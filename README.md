@@ -1,2 +1,2 @@
-# zhangyimou - Zhang Yimou Color Palettes for R
+# zhangyimou - Zhang Yimou Color Palettes
 zhangyimou
