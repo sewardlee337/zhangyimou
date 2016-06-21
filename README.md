@@ -12,6 +12,25 @@ This project is inspired by the R package [wesanderson](https://cran.r-project.o
 
 ## Usage
 
+### Viewing color palettes
+
+The function `display_palette()` allows displays a specified color palette:
+
+```
+### Display the color palette for movie "House of Flying Daggers".
+
+> display_palette("FlyingDaggers")
+```
+![alt text](https://github.com/sewardlee337/zhangyimou/blob/master/figure/flyingdagger_palette.png)
+
+Each color palette currently contains 6 colors. Color palettes include those for:
+* *House of Flying Daggers*
+* *Not One Less*
+* *Raise the Red Lantern*
+* *The Road Home*
+
+### Making your graphs sexy
+
 The function `choose_palette()` returns a string vector containing hexadecimal values for a respective movie's color palette: 
 
 ```
