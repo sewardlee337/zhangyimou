@@ -8,7 +8,7 @@ Ever wondered what your ggplot2 graphs would look like if they were designed by 
 ![alt text](https://github.com/sewardlee337/zhangyimou/blob/master/flying-daggers.jpg)
 > *House of Flying Daggers* (2004)
 
-This project is inspired by the R package [wesanderson](https://cran.r-project.org/web/packages/wesanderson/index.html).
+This project is inspired by the R package [wesanderson](https://cran.r-project.org/web/packages/wesanderson/index.html). Colors generated with the help of [Palette Generator](http://palettegenerator.com/)
 
 ## Usage
 
