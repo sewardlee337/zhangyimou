@@ -1,6 +1,6 @@
 # zhangyimou - Zhang Yimou Color Palettes
 
-## Under Development
+## *Under Development*
 
 Ever wondered what your ggplot2 graphs would look like if they were designed by the auteur behind *Hero*, *House of Flying Daggers*, and the [2008 Beijing Olympics Opening Ceremony](https://www.youtube.com/watch?v=ii-n_QSS0og)? This R package allows users to generate graphs with color palettes inspired by iconic scenes in Zhang Yimou's movies. 
 
@@ -14,7 +14,7 @@ This project is inspired by the R package [wesanderson](https://cran.r-project.o
 
 ### Viewing color palettes
 
-The function `display_palette()` allows displays a specified color palette:
+The function `display_palette()` displays a specified color palette:
 
 ```
 ### Display the color palette for movie "House of Flying Daggers".
